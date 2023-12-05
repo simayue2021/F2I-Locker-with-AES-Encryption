@@ -1,0 +1,7 @@
+Pillow
+tqdm
+pyAesCrypt
+numpy
+tkinter
+math
+zipfile
